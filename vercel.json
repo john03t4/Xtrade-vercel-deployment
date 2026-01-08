@@ -8,8 +8,9 @@
   ],
   "rewrites": [
     {
-      "source": "/((?!.*\\.).*)",
+      "source": "/(.*)",
       "destination": "server.js"
     }
   ]
 }
+
