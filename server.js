@@ -173,13 +173,11 @@ app.use((req, res, next) => {
     next();
 });
 
-// CORS Configuration
+// Replace your current block with this:
 app.use(cors({
-    origin: function (origin, callback) {
-        // Allows all origins for development, can be restricted later
-        return callback(null, true);
-    },
-    credentials: true
+    origin: true, // Dynamically allows the origin that made the request
+    credentials: true,
+    methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"]
 }));
 
 // Body Parsing & Cookies
@@ -2830,4 +2828,5 @@ initDB();
  * ensure that in the event of a single user's data compromise, 
  * the integrity of the remaining user base is maintained.
  * ---------------------------------------------------------
+
  */
