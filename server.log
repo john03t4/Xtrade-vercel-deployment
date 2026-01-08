@@ -1,0 +1,454 @@
+[2026-01-05T18:31:09.728Z] [INFO] Log file reset by Admin.
+[2026-01-05T18:31:09.745Z] [SUCCESS] Server logs cleared.
+[2026-01-05T18:34:04.034Z] [ADMIN_ACTION] Admin sent info notification to john03t4@gmail.com
+[2026-01-05T18:55:08.370Z] [INFO] Server shutting down...
+[2026-01-05T18:55:08.385Z] [INFO] Main database connection closed.
+[2026-01-05T18:55:10.991Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-05T18:55:11.008Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-05T18:55:32.404Z] [ERROR] SMTP Diagnostic Failed: Connection closed
+[2026-01-05T18:56:14.719Z] [INFO] Profile updated for user: john03t4 (john03t4@gmail.com)
+[2026-01-05T18:57:44.748Z] [INFO] Profile updated for user: john03t4 (john03t4@gmail.com)
+[2026-01-05T18:58:00.331Z] [INFO] Profile updated for user: john03t4 (john03t4@gmail.com)
+[2026-01-06T07:07:46.657Z] [INFO] Login successful via private DB: john03t4
+[2026-01-06T07:12:41.638Z] [INFO] Admin access granted.
+[2026-01-06T07:13:29.458Z] [INFO] Admin updated 3 fields for john03t4.
+[2026-01-06T07:14:53.122Z] [INFO] Admin injected trade for john03t4@gmail.com. Balance: 10000500, Earnings: 710
+[2026-01-06T07:16:47.062Z] [INFO] Admin updated 3 fields for john03t4.
+[2026-01-06T07:17:49.207Z] [INFO] Admin updated 3 fields for john03t4.
+[2026-01-06T07:32:23.463Z] [INFO] New registration: callu (4cal4real@gmail.com)
+[2026-01-06T07:45:44.788Z] [INFO] Server shutting down...
+[2026-01-06T07:45:44.805Z] [INFO] Main database connection closed.
+[2026-01-06T07:45:46.679Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-06T07:45:46.695Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-06T07:45:48.706Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-06T07:47:00.200Z] [INFO] New registration: john03t (john3t4@gmail.com)
+[2026-01-06T08:04:03.390Z] [INFO] Server shutting down...
+[2026-01-06T08:04:03.425Z] [INFO] Main database connection closed.
+[2026-01-06T08:04:05.468Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-06T08:04:05.491Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-06T08:04:07.168Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-06T08:04:48.506Z] [INFO] New registration: callio (calistein4@gmail.com)
+[2026-01-06T08:09:44.188Z] [INFO] New registration: EEER (john03t4t@gmail.com)
+[2026-01-06T08:49:51.710Z] [INFO] New registration: xtreme (xtrem4e@gmail.com)
+[2026-01-06T08:52:13.409Z] [WARN] EMAIL SEND FAILED for 4cal47real@gmail.com: connect EHOSTUNREACH 74.125.143.109:465
+[2026-01-06T08:52:13.412Z] [INFO] New registration: 4real (4cal47real@gmail.com)
+[2026-01-06T10:49:19.127Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T10:49:34.299Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T10:53:36.989Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T11:05:12.573Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T11:08:20.750Z] [ERROR] SMTP/DB Reset Error: connect EHOSTUNREACH 74.125.143.109:465
+[2026-01-06T11:08:27.415Z] [ERROR] SMTP/DB Reset Error: connect EHOSTUNREACH 74.125.143.109:465
+[2026-01-06T11:09:33.393Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T11:10:25.935Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T11:11:31.394Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T11:11:35.650Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T11:11:37.701Z] [ERROR] SMTP/DB Reset Error: Connection timeout
+[2026-01-06T11:13:20.484Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T11:13:26.934Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T11:15:29.707Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T11:16:51.259Z] [INFO] Server shutting down...
+[2026-01-06T11:16:51.266Z] [INFO] Main database connection closed.
+[2026-01-06T11:16:54.686Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-06T11:16:54.859Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-06T11:17:13.803Z] [ERROR] SMTP Diagnostic Failed: read ECONNRESET
+[2026-01-06T11:18:19.868Z] [ERROR] SMTP/DB Reset Error: read ECONNRESET
+[2026-01-06T11:18:27.893Z] [ERROR] SMTP/DB Reset Error: read ECONNRESET
+[2026-01-06T11:20:25.439Z] [ERROR] SMTP/DB Reset Error: read ECONNRESET
+[2026-01-06T11:20:27.037Z] [ERROR] SMTP/DB Reset Error: read ECONNRESET
+[2026-01-06T11:21:41.709Z] [INFO] Server shutting down...
+[2026-01-06T11:21:41.710Z] [INFO] Main database connection closed.
+[2026-01-06T11:21:46.307Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-06T11:21:46.317Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-06T11:22:05.091Z] [ERROR] SMTP Diagnostic Failed: read ECONNRESET
+[2026-01-06T11:22:57.147Z] [ERROR] SMTP/DB Reset Error: read ECONNRESET
+[2026-01-06T11:27:50.505Z] [INFO] Server shutting down...
+[2026-01-06T11:27:50.514Z] [INFO] Main database connection closed.
+[2026-01-06T11:27:51.999Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-06T11:27:52.050Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-06T11:28:56.058Z] [ERROR] SMTP/DB Reset Error: connect EHOSTUNREACH 192.178.223.109:465
+[2026-01-06T11:29:03.309Z] [ERROR] SMTP/DB Reset Error: connect EHOSTUNREACH 192.178.223.109:465
+[2026-01-06T11:29:52.048Z] [ERROR] SMTP Diagnostic Failed: Connection timeout
+[2026-01-06T11:39:25.719Z] [INFO] Server shutting down...
+[2026-01-06T11:39:25.732Z] [INFO] Main database connection closed.
+[2026-01-06T11:39:28.620Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-06T11:39:28.639Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-06T11:39:32.568Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-06T11:39:54.895Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T11:40:10.447Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T11:42:02.804Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T11:42:07.740Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T11:42:13.791Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T11:44:04.265Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T11:44:06.526Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T11:44:09.674Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T11:44:31.267Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T11:46:02.797Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T11:47:16.158Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T11:47:36.106Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T11:47:47.197Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T11:54:13.458Z] [ERROR] SMTP/DB Reset Error: read ECONNRESET
+[2026-01-06T11:54:13.565Z] [ERROR] SMTP/DB Reset Error: read ECONNRESET
+[2026-01-06T11:57:10.327Z] [INFO] Login successful via private DB: john03t4
+[2026-01-06T11:57:59.231Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T11:58:11.971Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T11:58:25.344Z] [WARN] Unauthorized reset attempt: john03t4
+[2026-01-06T11:58:35.654Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T12:06:13.754Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T12:08:30.281Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T12:11:23.121Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T12:11:26.366Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T12:11:29.798Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T12:16:40.282Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T12:18:09.205Z] [INFO] Server shutting down...
+[2026-01-06T12:18:09.211Z] [INFO] Main database connection closed.
+[2026-01-06T12:18:10.999Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-06T12:18:11.081Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-06T12:18:12.746Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-06T12:18:30.237Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T12:19:31.530Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T12:19:37.436Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T12:19:40.407Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T12:19:42.709Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T12:19:54.240Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T12:19:54.532Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T12:19:57.180Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T12:21:10.520Z] [INFO] Server shutting down...
+[2026-01-06T12:21:10.531Z] [INFO] Main database connection closed.
+[2026-01-06T12:21:15.209Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-06T12:21:15.231Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-06T12:21:20.936Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-06T12:21:31.849Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T12:21:35.936Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T12:23:15.278Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T12:24:18.860Z] [WARN] Unauthorized reset attempt: <div class="card-body">     <p id="pin_status_msg" class="text-white-50 mb-3">You can set a new transaction PIN.</p>     <div class="d-flex gap-2">       <button type="button" id="setPinBtn" class="btn btn-outline-primary">Set / Change PIN</button>     </div>   </div> </div>  <script> document.addEventListener('DOMContentLoaded', () => {     const userEmail = localStorage.getItem('user_email');     const setPinBtn = document.getElementById('setPinBtn');     const statusMsg = document.getElementById('pin_status_msg');      if (!userEmail) {         statusMsg.textContent = "User session not found. Please log in.";         return;     }      // Load current PIN status     (async () => {         try {             const res = await fetch(`http://localhost:3000/account/pin-status?email=${userEmail}`);             const result = await res.json();             if (result.success) {                 statusMsg.textContent = result.hasPin ? "PIN is active" : "No PIN set yet";             } else {                 statusMsg.textContent = "PIN status unavailable";             }         } catch (err) {             statusMsg.textContent = "Failed to load PIN status";         }     })();      setPinBtn.addEventListener('click', async () => {          // Step 1: Verify account password         const { value: password } = await Swal.fire({             title: 'Verify Account Password',             input: 'password',             inputPlaceholder: 'Enter your account password',             showCancelButton: true,             confirmButtonText: 'Verify',             allowOutsideClick: false,             preConfirm: pass => {                 if (!pass) Swal.showValidationMessage('Password cannot be empty');                 return pass;             },             didOpen: () => {                 // prevent Enter from submitting and reloading                 const input = Swal.getInput();                 input.addEventListener('keydown', e => { if (e.key === 'Enter') e.preventDefault(); });             }         });         if (!password) return;          // Step 2: Verify password with server         try {             const verifyRes = await fetch('http://localhost:3000/api/verify-password', {                 method: 'POST',                 headers: { 'Content-Type': 'application/json' },                 body: JSON.stringify({ email: userEmail, password })             });             const verifyResult = await verifyRes.json();             if (!verifyResult.success) return Swal.fire('Error', verifyResult.message || 'Incorrect password', 'error');         } catch (err) {             return Swal.fire('Error', 'Server error during password verification.', 'error');         }          // Step 3: Enter new PIN         const { value: newPin } = await Swal.fire({             title: 'Enter new 4-digit PIN',             input: 'password',             inputAttributes: { maxlength: 4, inputmode: 'numeric' },             inputPlaceholder: '1234',             showCancelButton: true,             confirmButtonText: 'Next',             allowOutsideClick: false,             preConfirm: pin => {                 if (!/^\d{4}$/.test(pin)) Swal.showValidationMessage('PIN must be exactly 4 digits');                 return pin;             },             didOpen: () => {                 const input = Swal.getInput();                 input.addEventListener('keydown', e => { if (e.key === 'Enter') e.preventDefault(); });             }         });         if (!newPin) return;          // Step 4: Confirm PIN         const { value: confirmPin } = await Swal.fire({             title: 'Confirm new PIN',             input: 'password',             inputAttributes: { maxlength: 4, inputmode: 'numeric' },             inputPlaceholder: '1234',             showCancelButton: true,             confirmButtonText: 'Save PIN',             allowOutsideClick: false,             preConfirm: pin => {                 if (!/^\d{4}$/.test(pin)) Swal.showValidationMessage('PIN must be exactly 4 digits');                 return pin;             },             didOpen: () => {                 const input = Swal.getInput();                 input.addEventListener('keydown', e => { if (e.key === 'Enter') e.preventDefault(); });             }         });         if (!confirmPin) return;          if (newPin !== confirmPin) {             return Swal.fire('Error', 'PINs do not match!', 'error');         }          // Step 5: Save PIN         Swal.fire({ title: 'Saving PIN...', allowOutsideClick: false, didOpen: () => Swal.showLoading() });         try {             const saveRes = await fetch('http://localhost:3000/account/update-pin', {                 method: 'POST',                 headers: { 'Content-Type': 'application/json' },                 body: JSON.stringify({ email: userEmail, pin: newPin, password })             });             const saveResult = await saveRes.json();             if (saveResult.success) {                 Swal.fire('Success', 'Your transaction PIN has been set.', 'success');                 statusMsg.textContent = "PIN is set and active.";             } else {                 Swal.fire('Error', saveResult.message || 'Failed to update PIN', 'error');             }         } catch (err) {             Swal.fire('Error', 'Server error while saving PIN.', 'error');         }     }); }); </script>
+[2026-01-06T12:28:02.627Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T12:33:16.946Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T12:33:20.621Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T12:33:24.422Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T12:35:31.998Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T12:35:38.503Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T12:52:12.950Z] [ERROR] SMTP/DB Reset Error: Unexpected socket close
+[2026-01-06T12:52:19.385Z] [ERROR] SMTP/DB Reset Error: Unexpected socket close
+[2026-01-06T12:52:40.752Z] [ERROR] SMTP/DB Reset Error: Unexpected socket close
+[2026-01-06T12:52:41.350Z] [ERROR] SMTP/DB Reset Error: Unexpected socket close
+[2026-01-06T15:07:02.547Z] [WARN] Unauthorized reset attempt: joh03t4@gmail.com
+[2026-01-06T15:07:20.205Z] [ERROR] SMTP/DB Reset Error: connect EHOSTUNREACH 192.178.223.109:465
+[2026-01-06T15:07:46.724Z] [WARN] Unauthorized reset attempt: joh03t4@gmail.com
+[2026-01-06T15:07:50.485Z] [ERROR] SMTP/DB Reset Error: connect EHOSTUNREACH 192.178.223.109:465
+[2026-01-06T15:07:55.323Z] [ERROR] SMTP/DB Reset Error: connect EHOSTUNREACH 192.178.223.109:465
+[2026-01-06T15:08:19.701Z] [ERROR] SMTP/DB Reset Error: connect EHOSTUNREACH 192.178.223.109:465
+[2026-01-06T21:00:58.871Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-06T21:00:58.890Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-06T21:01:16.360Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-06T21:01:35.154Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T22:28:42.102Z] [ERROR] SMTP/DB Reset Error: Connection timeout
+[2026-01-06T22:30:45.293Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T22:32:29.327Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T22:32:29.457Z] [SUCCESS] Reset dispatch successful: john03t4@gmail.com
+[2026-01-06T22:36:58.501Z] [INFO] Server shutting down...
+[2026-01-06T22:36:58.503Z] [INFO] Main database connection closed.
+[2026-01-06T22:36:59.908Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-06T22:36:59.916Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-06T22:37:01.061Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-06T22:39:11.605Z] [INFO] Server shutting down...
+[2026-01-06T22:39:11.630Z] [INFO] Main database connection closed.
+[2026-01-06T22:39:14.045Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-06T22:39:14.063Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-06T22:39:18.355Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-06T22:47:13.027Z] [INFO] Server shutting down...
+[2026-01-06T22:47:13.030Z] [INFO] Main database connection closed.
+[2026-01-06T22:52:31.813Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-06T22:52:31.821Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-06T22:52:33.548Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-06T22:52:44.092Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-06T22:52:53.889Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-06T22:57:54.630Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-06T22:58:02.977Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-06T23:00:24.943Z] [INFO] Server shutting down...
+[2026-01-06T23:00:24.944Z] [INFO] Main database connection closed.
+[2026-01-06T23:00:26.528Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-06T23:00:26.597Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-06T23:00:27.732Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-06T23:00:37.239Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-06T23:06:03.443Z] [INFO] Server shutting down...
+[2026-01-06T23:06:03.445Z] [INFO] Main database connection closed.
+[2026-01-06T23:06:05.535Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-06T23:06:05.562Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-06T23:06:21.921Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-06T23:06:35.747Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-06T23:08:26.417Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-06T23:11:41.457Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-06T23:11:41.697Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-06T23:14:25.904Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-06T23:14:34.513Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-06T23:16:10.355Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-06T23:16:14.600Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-06T23:16:19.629Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-06T23:19:25.861Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-06T23:19:32.667Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-06T23:20:35.066Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-06T23:21:44.954Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-06T23:26:25.521Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-06T23:26:25.902Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-06T23:26:26.486Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-06T23:26:54.420Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-06T23:27:29.398Z] [INFO] Server shutting down...
+[2026-01-06T23:27:29.403Z] [INFO] Main database connection closed.
+[2026-01-06T23:27:30.926Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-06T23:27:31.001Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-06T23:27:33.354Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-06T23:41:07.282Z] [SUCCESS] Password updated via link: john03t4
+[2026-01-06T23:50:30.567Z] [INFO] Server shutting down...
+[2026-01-06T23:50:30.571Z] [INFO] Main database connection closed.
+[2026-01-06T23:50:31.838Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-06T23:50:31.885Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-06T23:50:33.931Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-06T23:50:44.072Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-06T23:56:40.980Z] [INFO] Server shutting down...
+[2026-01-06T23:56:40.989Z] [INFO] Main database connection closed.
+[2026-01-06T23:56:42.979Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-06T23:56:43.002Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-06T23:56:44.343Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-06T23:57:48.519Z] [INFO] Server shutting down...
+[2026-01-06T23:57:48.521Z] [INFO] Main database connection closed.
+[2026-01-06T23:57:49.841Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-06T23:57:49.909Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-06T23:57:58.139Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-07T00:00:13.878Z] [INFO] Server shutting down...
+[2026-01-07T00:00:13.885Z] [INFO] Main database connection closed.
+[2026-01-07T00:00:15.621Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-07T00:00:15.636Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-07T00:00:17.548Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-07T00:01:24.186Z] [INFO] Server shutting down...
+[2026-01-07T00:01:24.188Z] [INFO] Main database connection closed.
+[2026-01-07T00:01:26.009Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-07T00:01:26.027Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-07T00:01:40.279Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-07T00:02:15.927Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T00:07:53.385Z] [INFO] Server shutting down...
+[2026-01-07T00:07:53.387Z] [INFO] Main database connection closed.
+[2026-01-07T00:07:55.106Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-07T00:07:55.128Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-07T00:07:56.255Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-07T00:09:11.304Z] [INFO] Server shutting down...
+[2026-01-07T00:09:11.306Z] [INFO] Main database connection closed.
+[2026-01-07T00:09:12.976Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-07T00:09:13.058Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-07T00:09:13.969Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-07T00:10:59.432Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T00:11:42.718Z] [INFO] Server shutting down...
+[2026-01-07T00:11:42.719Z] [INFO] Main database connection closed.
+[2026-01-07T00:11:44.533Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-07T00:11:44.587Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-07T00:11:46.458Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-07T00:12:30.655Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T00:12:47.319Z] [INFO] john03t4 Password Reseted
+[2026-01-07T00:19:52.775Z] [INFO] Server shutting down...
+[2026-01-07T00:19:52.779Z] [INFO] Main database connection closed.
+[2026-01-07T00:19:56.446Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-07T00:19:56.468Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-07T00:19:57.849Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-07T00:20:14.686Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T00:22:45.396Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T00:26:10.479Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T00:27:33.606Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T00:29:37.460Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T00:32:35.665Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T00:41:08.159Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T00:42:58.499Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T00:43:55.838Z] [INFO] Server shutting down...
+[2026-01-07T00:43:55.844Z] [INFO] Main database connection closed.
+[2026-01-07T00:43:58.312Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-07T00:43:58.338Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-07T00:44:38.612Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-07T00:45:25.520Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T00:49:37.463Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T00:52:41.580Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T00:56:06.302Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T00:59:46.439Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T00:59:46.615Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T00:59:46.677Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T00:59:47.075Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T01:01:49.827Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T01:02:14.019Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T01:08:21.961Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T01:09:39.628Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T01:11:28.029Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T01:14:27.799Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T01:14:32.908Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T01:17:23.115Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T01:27:06.453Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T01:28:32.727Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T01:32:35.565Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T01:35:37.192Z] [INFO] Server shutting down...
+[2026-01-07T01:35:37.203Z] [INFO] Main database connection closed.
+[2026-01-07T01:35:46.080Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-07T01:35:46.098Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-07T01:35:47.462Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-07T01:36:06.653Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T01:37:34.503Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T01:40:03.742Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T01:42:21.541Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T01:46:14.771Z] [INFO] Server shutting down...
+[2026-01-07T01:46:14.775Z] [INFO] Main database connection closed.
+[2026-01-07T01:46:16.264Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-07T01:46:16.297Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-07T01:46:25.393Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-07T01:52:17.961Z] [INFO] Server shutting down...
+[2026-01-07T01:52:17.966Z] [INFO] Main database connection closed.
+[2026-01-07T01:52:19.447Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-07T01:52:19.462Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-07T01:52:20.881Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-07T01:53:08.090Z] [INFO] Server shutting down...
+[2026-01-07T01:53:08.095Z] [INFO] Main database connection closed.
+[2026-01-07T01:53:09.376Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-07T01:53:09.466Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-07T01:53:11.466Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-07T01:53:32.326Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T01:53:55.822Z] [INFO] Server shutting down...
+[2026-01-07T01:53:55.827Z] [INFO] Main database connection closed.
+[2026-01-07T01:53:57.369Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-07T01:53:57.445Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-07T01:54:00.019Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-07T01:55:11.867Z] [INFO] Server shutting down...
+[2026-01-07T01:55:11.871Z] [INFO] Main database connection closed.
+[2026-01-07T01:55:13.292Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-07T01:55:13.311Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-07T01:55:15.180Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-07T01:55:24.176Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T01:56:10.125Z] [INFO] Server shutting down...
+[2026-01-07T01:56:10.128Z] [INFO] Main database connection closed.
+[2026-01-07T01:56:11.548Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-07T01:56:11.605Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-07T01:56:12.849Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-07T01:57:49.900Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T01:58:21.765Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T01:58:42.010Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T02:04:51.443Z] [INFO] Server shutting down...
+[2026-01-07T02:04:51.450Z] [INFO] Main database connection closed.
+[2026-01-07T02:04:52.781Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-07T02:04:52.800Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-07T02:04:54.340Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-07T02:06:33.024Z] [INFO] Server shutting down...
+[2026-01-07T02:06:33.030Z] [INFO] Main database connection closed.
+[2026-01-07T02:06:34.484Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-07T02:06:34.556Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-07T02:06:35.739Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-07T02:06:46.772Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T02:07:12.987Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T02:07:29.065Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T02:09:07.505Z] [INFO] Server shutting down...
+[2026-01-07T02:09:07.510Z] [INFO] Main database connection closed.
+[2026-01-07T02:09:09.052Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-07T02:09:09.071Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-07T02:09:10.152Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-07T02:10:03.484Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T02:12:12.991Z] [INFO] Server shutting down...
+[2026-01-07T02:12:12.993Z] [INFO] Main database connection closed.
+[2026-01-07T02:12:14.757Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-07T02:12:14.797Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-07T02:12:16.132Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-07T02:12:29.196Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T02:12:40.561Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T02:14:42.070Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T02:15:04.949Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T02:17:19.582Z] [INFO] Server shutting down...
+[2026-01-07T02:17:19.588Z] [INFO] Main database connection closed.
+[2026-01-07T02:17:21.147Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-07T02:17:21.422Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-07T02:17:22.603Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-07T02:18:56.706Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T02:19:05.998Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T02:23:56.813Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T02:23:59.379Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T02:25:05.354Z] [INFO] Server shutting down...
+[2026-01-07T02:25:05.359Z] [INFO] Main database connection closed.
+[2026-01-07T02:25:07.182Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-07T02:25:07.380Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-07T02:25:08.423Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-07T02:32:10.075Z] [INFO] Server shutting down...
+[2026-01-07T02:32:10.078Z] [INFO] Main database connection closed.
+[2026-01-07T02:32:22.723Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-07T02:32:22.747Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-07T02:32:24.123Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-07T02:41:00.052Z] [INFO] Server shutting down...
+[2026-01-07T02:41:00.077Z] [INFO] Main database connection closed.
+[2026-01-07T02:41:02.529Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-07T02:41:02.551Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-07T02:41:04.011Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-07T02:41:15.378Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T02:48:08.655Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T02:54:59.519Z] [INFO] Reset Link Sent to: john03t4@gmail.com
+[2026-01-07T02:56:21.393Z] [INFO] Login successful via private DB: john03t4
+[2026-01-07T03:13:09.836Z] [INFO] Login successful via private DB: john03t4
+[2026-01-07T13:18:12.508Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-07T13:18:12.519Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-07T13:18:14.148Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-07T13:18:24.739Z] [INFO] Login successful via private DB: john03t4
+[2026-01-07T19:17:27.954Z] [INFO] Login successful via private DB: john03t4
+[2026-01-07T22:50:37.266Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-07T22:50:37.285Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-07T22:51:18.390Z] [Connection closed unexpectedly] SMTP error:
+[2026-01-07T22:52:01.243Z] [INFO] Server shutting down...
+[2026-01-07T22:52:01.246Z] [INFO] Main database connection closed.
+[2026-01-07T22:52:02.746Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-07T22:52:02.758Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-07T22:52:41.530Z] [Connection closed unexpectedly] SMTP error:
+[2026-01-07T22:52:48.071Z] [INFO] Server shutting down...
+[2026-01-07T22:52:48.073Z] [INFO] Main database connection closed.
+[2026-01-07T22:53:57.257Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-07T22:53:57.265Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-07T22:54:28.982Z] [INFO] SMTP ready
+[2026-01-07T23:20:39.347Z] [INFO] Server shutting down...
+[2026-01-07T23:20:39.413Z] [INFO] Main database connection closed.
+[2026-01-07T23:20:45.989Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-07T23:20:46.062Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-07T23:20:52.765Z] [INFO] SMTP ready
+[2026-01-07T23:20:54.434Z] [INFO] Server shutting down...
+[2026-01-07T23:20:54.439Z] [INFO] Main database connection closed.
+[2026-01-07T23:20:56.619Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-07T23:20:56.667Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-07T23:20:58.463Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-07T23:27:10.184Z] [INFO] Server shutting down...
+[2026-01-07T23:27:10.188Z] [INFO] Main database connection closed.
+[2026-01-07T23:52:08.291Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-07T23:52:08.301Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-07T23:52:10.480Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-07T23:53:57.091Z] [INFO] New registration: john03t4 (john03t4@gmail.com)
+[2026-01-07T23:54:28.334Z] [SUCCESS] User john03t4 added to verified_users
+[2026-01-07T23:54:28.339Z] [INFO] No referral code provided for user: john03t4. Skipping referral update.
+[2026-01-07T23:54:28.412Z] [SUCCESS] Database initialized for: john03t4
+[2026-01-07T23:54:37.554Z] [INFO] Login successful via private DB: john03t4
+[2026-01-07T23:56:40.999Z] [INFO] Server shutting down...
+[2026-01-07T23:56:41.001Z] [INFO] Main database connection closed.
+[2026-01-07T23:56:42.065Z] [INFO] Master Oracle Database connected successfully.
+[2026-01-07T23:56:42.096Z] [SUCCESS] Xtrade Financial Gateway running on port 3000
+[2026-01-07T23:56:43.624Z] [SUCCESS] SMTP Gateway established and verified.
+[2026-01-07T23:57:14.881Z] [SUCCESS] Deleted DB file for john03t4
+[2026-01-07T23:57:14.882Z] [INFO] Admin deleted user: john03t4@gmail.com
+[2026-01-07T23:58:05.561Z] [INFO] New registration: john03t4 (john03t4@gmail.com)
+[2026-01-07T23:58:30.939Z] [SUCCESS] User john03t4 added to verified_users
+[2026-01-07T23:58:30.943Z] [INFO] No referral code provided for user: john03t4. Skipping referral update.
+[2026-01-07T23:58:31.265Z] [SUCCESS] Migrated profile column [fname] for: john03t4
+[2026-01-07T23:58:31.279Z] [SUCCESS] Migrated profile column [lname] for: john03t4
+[2026-01-07T23:58:31.310Z] [SUCCESS] Migrated profile column [username] for: john03t4
+[2026-01-07T23:58:31.340Z] [SUCCESS] Migrated profile column [mobile] for: john03t4
+[2026-01-07T23:58:31.370Z] [SUCCESS] Migrated profile column [country] for: john03t4
+[2026-01-07T23:58:31.394Z] [SUCCESS] Migrated profile column [address] for: john03t4
+[2026-01-07T23:58:31.411Z] [SUCCESS] Migrated profile column [zip] for: john03t4
+[2026-01-07T23:58:31.468Z] [SUCCESS] Migrated profile column [profile_pic] for: john03t4
+[2026-01-07T23:58:31.493Z] [SUCCESS] Migrated profile column [referral] for: john03t4
+[2026-01-07T23:58:31.506Z] [SUCCESS] Migrated profile column [currency] for: john03t4
+[2026-01-07T23:58:31.520Z] [SUCCESS] Migrated profile column [account] for: john03t4
+[2026-01-07T23:58:31.546Z] [SUCCESS] Migrated profile column [password] for: john03t4
+[2026-01-07T23:58:31.564Z] [SUCCESS] Migrated profile column [reg_date] for: john03t4
+[2026-01-07T23:58:31.580Z] [SUCCESS] Migrated profile column [total_balance] for: john03t4
+[2026-01-07T23:58:31.597Z] [SUCCESS] Migrated profile column [total_bonus] for: john03t4
+[2026-01-07T23:58:31.615Z] [SUCCESS] Migrated profile column [investment] for: john03t4
+[2026-01-07T23:58:31.692Z] [SUCCESS] Database initialized for: john03t4
+[2026-01-07T23:59:46.740Z] [INFO] New registration: Cenz (blessedchidex6@gmail.com)
+[2026-01-08T00:02:06.194Z] [SUCCESS] User Cenz added to verified_users
+[2026-01-08T00:02:06.196Z] [INFO] No referral code provided for user: Cenz. Skipping referral update.
+[2026-01-08T00:02:06.261Z] [SUCCESS] Database initialized for: Cenz
+[2026-01-08T00:03:58.729Z] [INFO] Server shutting down...
+[2026-01-08T00:03:58.731Z] [INFO] Main database connection closed.
